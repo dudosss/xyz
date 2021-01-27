@@ -1,0 +1,179 @@
+.ooo {
+    font-size: 20px;
+    font-weight: 400;
+    border: 6px double black;
+    background: white;
+    padding: 10px;
+    height: 140px;
+    width: 970px;
+    
+}
+
+.opro {
+    text-align: center;
+}
+
+.pre {
+    font-size: 25px;
+    text-align: center;
+    font-weight: 700;
+    background-color: blueviolet;
+    color:rgb(0, 0, 0);
+}
+
+.xxx {
+    height: 150px;
+    width: 150px;
+    float: left;
+}
+
+.gde {
+    font-size: 20px;
+    font-weight: 400px;
+    border: 6px double black;
+    background: white;
+    padding: 10px;
+    height: 150px;
+    width: 970px;
+}
+
+.yyy {
+    height: 150px;
+    width: 250px;
+    float: left;
+}
+
+.ssilka {
+    font-size: 20px;
+    font-weight: 400px;
+    border: 6px double black;
+    background: white;
+    padding: 10px;
+    height: 150px;
+    width: 970px;
+}
+
+.navig {
+    color:#000000; display:block; float:right;
+    font-size: 30px;
+
+}
+
+.navigi {
+    color:#000000; display:block; float: left;
+    background-color: rgb(43, 194, 76);
+    font-size: 30px;
+}
+
+.navigo {
+    color:#000000; display:block;
+    background-color: rgb(43, 194, 76);
+    text-align:center;
+    font-size: 30px;
+}
+
+.citat {
+    color: rgb(107, 23, 23);
+    font-size: 25px;
+    text-align: center;
+}
+
+.footer-menu{
+    padding:3em 0;
+    box-shadow: 0 0px 10px rgb(105, 85, 85);
+    background-color: rgb(211, 132, 132);
+}
+.footer-container{
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.footer-menu ul li{
+    display:inline-block;
+}
+.footer-menu ul li a{
+    color:#6E6E6E;
+    margin:0 1em;
+    font-size:1.2rem;
+    text-decoration:none;
+}
+.footer-menu ul li a:hover{
+    color:#640515;
+}
+p.copy-right{
+    font-size:1em;
+}
+p.copy-right a{
+    color:#D46E00;
+    text-decoration:none;
+}
+p.copy-right a:hover{
+    color:#25221C;
+}
+
+.white {
+    color: rgb(2, 1, 1);
+    text-align: center;
+    font-size: 50px;
+}
+
+.whiter {
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+}
+
+.plus {
+    font-size: 25px;
+    float: unset;
+    font-weight: 500;
+}
+
+.qqq {
+    background-color: thistle;
+    opacity: 0.8;
+        filter: alpha(opacity=30);
+        width: 950;
+}
+
+.happy {
+    float: right;
+    height: 150;
+    width: 250;
+}
+
+.where {
+    text-align: center;
+    color: rgb(2, 1, 1);
+    font-size: 45px;
+}
+
+.ia {
+    width: 400px;
+    height: 300px;
+    float: left;
+}
+
+.ias {
+    width: 300px;
+    height: 200px;
+    float: left;
+}
+
+.tih {
+    text-align: left;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.iai {
+    width: 300px;
+    height: 160px;
+    float: left;
+}
+
+.sk {
+    text-align: center;
+    font-size: 40px;
+}
